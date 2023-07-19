@@ -1,5 +1,7 @@
-@extends('layouts.app')
-
+@extends('layouts.master')
+@push('title')
+    USERS | EDIT
+@endpush
 
 @section('content')
 <div class="row">

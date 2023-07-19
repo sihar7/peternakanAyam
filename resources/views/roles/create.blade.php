@@ -1,5 +1,7 @@
-@extends('layouts.app')
-
+@extends('layouts.master')
+@push('title')
+    ROLES | CREATE
+@endpush
 @section('content')
 <div class="row">
     <div class="col-lg-12 margin-tb">

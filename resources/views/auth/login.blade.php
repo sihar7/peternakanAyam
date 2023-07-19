@@ -38,10 +38,10 @@
                 <div class="login-content">
                     <div class="login-userset">
                         <div class="login-logo logo-normal center">
-                            <img src="{{ URL::to('') }}/ayam.png" alt="img">
+                            {{-- <img src="{{ URL::to('') }}/ayam.png" alt="img"> --}}
                         </div>
                         <a href="index.html" class="login-logo logo-white center">
-                            <img src="{{ URL::to('') }}/ayam.png"alt >
+                            {{-- <img src="{{ URL::to('') }}/ayam.png"alt > --}}
                         </a>
                         <div class="login-userheading">
                             <h3>Sign In</h3>
